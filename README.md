@@ -4,7 +4,7 @@
 
 <body>
   <center>
-    <img src="https://i.imgur.com/tzYKRfd.gif">
+    <img src="https://i.imgur.com/tzYKRfd.gif" width="1000px">
   </center>
 </body>
 <!---
